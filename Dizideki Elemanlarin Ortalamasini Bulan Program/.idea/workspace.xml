@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb64b98b-9833-4748-9186-3c49b2d0e2a4" name="Changes" comment="" />
+    <list default="true" id="d6f1cdd3-3b48-48c8-bde1-6e45ea4d028f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2dTVtM4GSkUBOSEDMVBwlhRkPu5" />
+  <component name="ProjectId" id="2dV3J1pGKHcOxKjwVH7ymED5WMa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,18 +23,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/Maas Hesaplama/src/Main.java"
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/Dizideki Elemanlarin Ortalamasini Bulan Program/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fb64b98b-9833-4748-9186-3c49b2d0e2a4" name="Changes" comment="" />
-      <created>1710032271528</created>
+      <changelist id="d6f1cdd3-3b48-48c8-bde1-6e45ea4d028f" name="Changes" comment="" />
+      <created>1710079344098</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710032271528</updated>
+      <updated>1710079344098</updated>
     </task>
     <servers />
   </component>
@@ -53,7 +43,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>17</line>
+          <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
