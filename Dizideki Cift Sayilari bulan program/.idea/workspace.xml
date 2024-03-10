@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388918ec-6858-4fbd-bc01-0017e9986273" name="Changes" comment="" />
+    <list default="true" id="bd0023c6-b6e4-4b9e-88bd-7c44a36c3594" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dizideki Cift Sayilari bulan program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2dV6A2XQ5HkpODuRnZXq9JojZHe" />
+  <component name="ProjectId" id="2dV87ra8f7T2f7J1se5pz59Yjlq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,30 +34,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/Ekrana b harfi yazdiran program/src/Main.java"
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/Dizideki Cift Sayilari bulan program/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="388918ec-6858-4fbd-bc01-0017e9986273" name="Changes" comment="" />
-      <created>1710080753150</created>
+      <changelist id="bd0023c6-b6e4-4b9e-88bd-7c44a36c3594" name="Changes" comment="" />
+      <created>1710081722495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710080753150</updated>
+      <updated>1710081722495</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
