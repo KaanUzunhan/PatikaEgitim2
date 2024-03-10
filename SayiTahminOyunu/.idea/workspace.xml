@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4593ef5f-4416-44f3-9dfd-a1b3615c159d" name="Changes" comment="" />
+    <list default="true" id="651eb9bf-24a2-48b0-a261-dbcfb113d4a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2dVEZLB9bwKPVBf96I5zfnfUz5W" />
+  <component name="ProjectId" id="2dVTtvZf517n9WQNPFoBd20qJy8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,18 +23,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/Transpoze bulan program/src/Main.java"
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-2/SayiTahminOyunu/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4593ef5f-4416-44f3-9dfd-a1b3615c159d" name="Changes" comment="" />
-      <created>1710084900899</created>
+      <changelist id="651eb9bf-24a2-48b0-a261-dbcfb113d4a5" name="Changes" comment="" />
+      <created>1710092465914</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710084900899</updated>
+      <updated>1710092465914</updated>
     </task>
     <servers />
   </component>
@@ -46,7 +43,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>14</line>
+          <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
